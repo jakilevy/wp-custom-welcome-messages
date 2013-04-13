@@ -1,6 +1,6 @@
 === WP Custom Welcome Messages ===
-Contributors: rzvagelsky
-Donate link: 
+Contributors: rzvagelsky, jakilevy
+Donate link: http://arrowrootmedia.com
 Tags: email, mail, wp_mail
 Requires at least: 3.3
 Tested up to: 3.3.1
@@ -21,6 +21,7 @@ This plugin will allow you to customize the welcome email a user receives when t
 <li>Add links, images, videos, embeds or any other HTML compliant tags.</li>
 </ul>
 
+This plugin was inspired by Paul Gibb's plugin, <a href="http://wordpress.org/extend/plugins/welcome-pack/">Welcome Pack</a>. That plugin has some great features. But it's built mainly for Buddypress sites. We wanted something for single installs, and a plugin that had one simple feature -> change the welcome email. So we did it! Let us know how it works for you!
 
 == Installation ==
 
