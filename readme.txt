@@ -3,7 +3,7 @@ Contributors: rzvagelsky, jakilevy
 Donate link: http://arrowrootmedia.com
 Tags: email, mail, wp_mail
 Requires at least: 3.3
-Tested up to: 3.3.1
+Tested up to: 3.5.1
 Stable tag: 1.0
 
 Description: Customize the Welcome Message sent to users when they register on your site.
@@ -50,6 +50,10 @@ Please feel free to contact us should you have any issues with the plugin or to 
 * Add links, images, videos, embeds or any other HTML compliant tags.
 
 == Changelog ==
+
+= 1.0 =
+* Tested on 3.5.1
+* Updated changelog to stable release
 
 = 0.01 =
 
